@@ -15,3 +15,8 @@ In order not to make the code too tedious, I only collect the information of the
 
 3) Use Xpath to parse the content of the page and extract the data, including the city names and country names of the destinations as well as the lowest prices for each destinations. Then store all of the data into a data table.
 4) Visualize the destinations of cheap flights and their prices on map
+
+<img width="402" alt="1635937890(1)" src="https://user-images.githubusercontent.com/56775305/140050415-bbe91995-41a7-4080-b789-10212a594e2b.png">
+
+<img width="494" alt="1635937951(1)" src="https://user-images.githubusercontent.com/56775305/140050528-45379972-3138-4e0f-b827-78ab0ce655ee.png">
+
